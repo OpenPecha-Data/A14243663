@@ -1,0 +1,19 @@
+segment_sources:
+  I6FAEDDCB:
+    type: origin_type
+    relation: translation
+    language: en
+  IEBC60523:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  6f561824ddf04e3290f781ea002eb9a8:
+    I6FAEDDCB: 7bc9efbd70014df386c4adcc02c5ea6e
+    IEBC60523: 973ee9fb236147dab2d80512d284772c
+  6916cbf56d3944fd869e296798051c7d:
+    I6FAEDDCB: 91a91212ee804e5bb0fee28501860e4e
+    IEBC60523: e7f1cd36978d46898661092379f332a8
+  0ca7fedba8ae4dc98f046667aa98e7c2:
+    I6FAEDDCB: 4d9b516553f049c7916485fad0aeb6c2
+    IEBC60523: 8338aa36521b4043afddcd0fe3f388ee
